@@ -1,4 +1,4 @@
-export type ItemData = {
+export type TCharacter = {
   name: string;
   nickName: string;
   skillset: string[];

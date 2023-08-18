@@ -1,8 +1,9 @@
+/* eslint-disable react/react-in-jsx-scope */
 import { Component } from "react";
-import { ItemData } from "../types";
+import { TCharacter } from "../types";
 
 type RowTypes = {
-	item: ItemData;
+	item: TCharacter;
 	isDark: boolean;
 };
 

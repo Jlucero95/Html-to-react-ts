@@ -1,6 +1,6 @@
-import { ItemData } from "./types";
+import { TCharacter } from "./types";
 
-export const CharacterData: ItemData[] = [
+export const characterData: TCharacter[] = [
 	{
 		name: "Alex Louis Armstrong",
 		nickName: "Major Armstrong",
