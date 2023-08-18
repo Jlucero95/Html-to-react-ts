@@ -1,4 +1,3 @@
-/* eslint-disable react/react-in-jsx-scope */
 import { Component } from "react";
 import { TCharacter } from "../types";
 

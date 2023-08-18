@@ -1,4 +1,3 @@
-/* eslint-disable react/react-in-jsx-scope */
 import "./App.css";
 import "./character-cards.css";
 import "./character-ratings.css";
