@@ -1,7 +1,7 @@
-import { ItemData } from "../types";
+import { TCharacter } from "../types";
 
 type CardTypes = {
-	item: ItemData;
+	item: TCharacter;
 };
 
 export function CardCreator({
